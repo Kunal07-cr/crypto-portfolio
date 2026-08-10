@@ -1,3 +1,4 @@
+intern id-CITS6077
 # CryptoLens - Production-Grade Crypto Portfolio Intelligence Platform
 
 **CryptoLens** is an institutional-quality crypto portfolio management and analytics platform built with Next.js 15 App Router, TypeScript, Prisma ORM, PostgreSQL / SQLite, Redis caching, robust financial ledger & P&L calculation engines (supporting both FIFO and Average Cost accounting), an AI Portfolio Analyst context layer, risk analytics engine, CSV transaction importer, and a sleek, data-dense fintech terminal UI.
